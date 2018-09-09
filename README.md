@@ -1,8 +1,3 @@
-# company_profile
+# flutter_self_intro
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A basic flutter app with some basic Tween animations
