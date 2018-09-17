@@ -6,7 +6,7 @@ class CompanyDetailsIntroAnimation {
             parent: controller, curve: Interval(0.5, 1.0, curve: Curves.ease))),
 
         bgdropBlur = Tween(begin: 0.0, end: 5.0).animate(CurvedAnimation(
-            parent: controller, curve: Interval(0.25, 0.45, curve: Curves.ease))),
+            parent: controller, curve: Interval(0.4, 0.8, curve: Curves.ease))),
 
         avatarSize = Tween(begin: 0.0, end: 1.0).animate(CurvedAnimation(
             parent: controller,
